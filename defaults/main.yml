@@ -1,0 +1,9 @@
+---
+oh_my_zsh:
+  plugins: autojump aws bower brew colored-man colorize git httpie jsontools node npm osx sudo tmux vagrant zsh-syntax-highlighting
+  theme: "powerlevel9k/powerlevel9k"
+  case_sensitive: "false"
+  hyphen_insensitive: "false"
+  disable_update_prompt: "false"
+  disable_auto_update: "true"
+  update_days: 30

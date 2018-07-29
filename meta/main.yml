@@ -1,0 +1,55 @@
+galaxy_info:
+  role_name: zsh
+  author: Quoc Vu
+  description: Install ZSH shell and oh-my-zsh with Powerline9k theme
+  company: N/A
+  license: MIT
+  min_ansible_version: 2.0
+  github_branch: master
+  platforms:
+    - name: Alpine
+      versions:
+        - all
+    - name: ArchLinux
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: FreeBSD
+      versions:
+        - all
+    - name: GenericLinux
+      versions:
+        - all
+    - name: MacOSX
+      versions:
+       - all
+    - name: OpenBSD
+      versions:
+       - all
+    - name: opensuse
+      versions:
+       - all
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - archlinux
+    - bsd
+    - debian
+    - development
+    - linux
+    - mac
+    - osx
+    - powerline
+    - shell
+    - ubuntu
+    - zsh
+dependencies: []
